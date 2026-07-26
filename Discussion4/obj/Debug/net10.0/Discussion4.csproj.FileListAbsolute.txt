@@ -1,0 +1,15 @@
+/workspaces/ProgrammingLogic/Discussion4/bin/Debug/net10.0/Discussion4
+/workspaces/ProgrammingLogic/Discussion4/bin/Debug/net10.0/Discussion4.deps.json
+/workspaces/ProgrammingLogic/Discussion4/bin/Debug/net10.0/Discussion4.runtimeconfig.json
+/workspaces/ProgrammingLogic/Discussion4/bin/Debug/net10.0/Discussion4.dll
+/workspaces/ProgrammingLogic/Discussion4/bin/Debug/net10.0/Discussion4.pdb
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.AssemblyInfoInputs.cache
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.AssemblyInfo.cs
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.csproj.CoreCompileInputs.cache
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.sourcelink.json
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.dll
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/refint/Discussion4.dll
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.pdb
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/Discussion4.genruntimeconfig.cache
+/workspaces/ProgrammingLogic/Discussion4/obj/Debug/net10.0/ref/Discussion4.dll
